@@ -4,4 +4,4 @@ This repository contains examples where NLP problems are solved no using DL algo
 
 Folder| Description
 ------|---------
-fsdfsd| sdfdsfdgfdg
+stack_models_sentim_analysis (https://github.com/njsdias/sentiment_no_dl/tree/main/stack_models_sentim_analysis)| sdfdsfdgfdg
